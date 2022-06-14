@@ -1,0 +1,21 @@
+.header {
+  position: relative;
+  padding: 0 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+  background-color: rgb(106, 145, 229);
+  height: 10vw;
+}
+.sorting-bars {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.bars {
+  background-color: rgb(89, 225, 230);
+  width: 6px;
+  margin: 0 2px;
+}
